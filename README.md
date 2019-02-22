@@ -17,3 +17,5 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/) - WooCommerce blocks for the Gutenberg editor.
 * [Easy Digital Downloads – Blocks](https://wordpress.org/plugins/edd-blocks) - Display Downloads, Categories and Tags using the new WordPress editor.
 * [Grids: Layout builder for WordPress](https://wordpress.org/plugins/grids/) - Layout builder for WordPress.
+* [Premium Blocks for Gutenberg](https://wordpress.org/plugins/premium-blocks-for-gutenberg/) - Gutenberg blocks that will help you build amazing pages with the new WordPress Gutenberg editor.
+* [Extra Gutenberg Blocks Options: Blocks Design, Style, Custom CSS](https://wordpress.org/plugins/stylist/) - Simple yet powerful visual style editor.
