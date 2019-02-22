@@ -19,3 +19,4 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Grids: Layout builder for WordPress](https://wordpress.org/plugins/grids/) - Layout builder for WordPress.
 * [Premium Blocks for Gutenberg](https://wordpress.org/plugins/premium-blocks-for-gutenberg/) - Gutenberg blocks that will help you build amazing pages with the new WordPress Gutenberg editor.
 * [Extra Gutenberg Blocks Options: Blocks Design, Style, Custom CSS](https://wordpress.org/plugins/stylist/) - Simple yet powerful visual style editor.
+* [Block Gallery – Photo Gallery Gutenberg Blocks](https://wordpress.org/plugins/block-gallery/) - The most advanced suite of gallery blocks for the Gutenberg block editor. Create stunning masonry, carousel and stacked galleries in seconds, with the brilliantly intuitive interface. Block Gallery is absolutely the best collection of native editor gallery blocks in the world.
