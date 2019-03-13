@@ -5,6 +5,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Block Plugins](#plugins)
 
 ## Block Plugins
+* [Accordion Blocks](https://wordpress.org/plugins/accordion-blocks/) - Gutenberg blocks for creating responsive accordion drop-downs.
 * [Advanced Gutenberg](https://wordpress.org/plugins/advanced-gutenberg/) - Enhanced tools for Gutenberg editor.
 * [Advanced Gutenberg Blocks](https://wordpress.org/plugins/advanced-gutenberg-blocks/) - Awesome customizable blocks for the new WordPress Editor.
 * [Atomic Blocks](https://wordpress.org/plugins/atomic-blocks/) - A beautiful collection of handy Gutenberg blocks to help you get started with the new WordPress editor.
