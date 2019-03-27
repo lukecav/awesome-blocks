@@ -2,7 +2,7 @@
 Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types.
 
 ## Table Of Contents
-* [Block Plugins](#plugins)
+* [Block Plugins](#block-plugins)
 
 ## Block Plugins
 * [Accordion Blocks](https://wordpress.org/plugins/accordion-blocks/) - Gutenberg blocks for creating responsive accordion drop-downs.
