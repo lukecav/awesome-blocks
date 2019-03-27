@@ -24,6 +24,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Otter Blocks](https://wordpress.org/plugins/otter-blocks/) - Create beautiful and attracting posts, pages, and landing pages with Gutenberg Blocks and Template Library by Otter. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages.
 * [Premium Blocks](https://wordpress.org/plugins/premium-blocks-for-gutenberg/) - Gutenberg blocks that will help you build amazing pages with the new WordPress Gutenberg editor.
 * [Qubely Blocks – Full-fledged Gutenberg Toolkit](https://wordpress.org/plugins/qubely/) - The one and only Gutenberg block plugin you will ever need.
+* [Section Block](https://wordpress.org/plugins/section-block/) - Adds a Section Block to new WordPress Blocks editor.
 * [Stackable](https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/) - Blocks for everyone.
 * [Stylist](https://wordpress.org/plugins/stylist/) - Simple yet powerful visual style editor.
 * [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/) - WooCommerce blocks for the Gutenberg editor.
