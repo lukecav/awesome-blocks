@@ -13,6 +13,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Block Context](https://wordpress.org/plugins/block-context/) - Hide Gutenberg editor blocks in context.
 * [Block Gallery](https://wordpress.org/plugins/block-gallery/) - The most advanced suite of gallery blocks for the Gutenberg block editor. Create stunning masonry, carousel and stacked galleries in seconds, with the brilliantly intuitive interface. Block Gallery is absolutely the best collection of native editor gallery blocks in the world.
 * [Block Lab](https://wordpress.org/plugins/block-lab/) - Create custom blocks effortlessly. No Gutenberg development know-how required.
+* [Bootstrap Blocks](https://wordpress.org/plugins/wp-bootstrap-blocks/) - Bootstrap 4 Gutenberg Blocks for WordPress.
 * [CoBlocks](https://wordpress.org/plugins/coblocks/) - CoBlocks is a suite of professional page building content blocks for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress.
 * [Cloud Blocks](https://wordpress.org/plugins/cloud-blocks/) - Your library of Gutenberg blocks in the cloud.
 * [Easy Blocks – Gutenberg Blocks Collection](https://wordpress.org/plugins/easy-blocks/) - Collection of Gutenberg Blocks for WordPress Block Editor.
