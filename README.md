@@ -22,6 +22,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Easy Blocks – Gutenberg Blocks Collection](https://wordpress.org/plugins/easy-blocks/) - Collection of Gutenberg Blocks for WordPress Block Editor.
 * [Easy Digital Downloads Blocks](https://wordpress.org/plugins/edd-blocks) - Display Downloads, Categories and Tags using the new WordPress editor.
 * [Disable Gutenberg Blocks – Block Manager](https://wordpress.org/plugins/disable-gutenberg-blocks/) - Remove unwanted blocks from the Gutenberg Block Inserter.
+* [Gap Block](https://wordpress.org/plugins/gap-block/) - Adds a Gap Block to new WordPress Blocks editor.
 * [Getwid – Gutenberg Blocks](https://wordpress.org/plugins/getwid/) - Extra Gutenberg blocks for building seamless and aesthetic websites in the WordPress block editor.
 * [Ghost Kit](https://wordpress.org/plugins/ghostkit/) - Blocks collection and extensions for Gutenberg.
 * [Grids](https://wordpress.org/plugins/grids/) - Layout builder for WordPress.
