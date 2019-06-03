@@ -31,6 +31,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Ghost Kit](https://wordpress.org/plugins/ghostkit/) - Blocks collection and extensions for Gutenberg.
 * [Grids](https://wordpress.org/plugins/grids/) - Layout builder for WordPress.
 * [Kadence Blocks](https://wordpress.org/plugins/kadence-blocks/) - Advanced Page Building Blocks for Gutenberg. Create custom column layouts, backgrounds, dual buttons, icons etc.
+* [Multipurpose Gutenberg Block](https://wordpress.org/plugins/multipurpose-block/) - Single block containing multiple elements, It will enhance your website visibility and your needs. With this, you will change page layout (Fixed, Semi), set All Background Property (like  color, overlay, opacity, gradient style), set different Border, set height, width and set All Padding Property.
 * [Otter Blocks](https://wordpress.org/plugins/otter-blocks/) - Create beautiful and attracting posts, pages, and landing pages with Gutenberg Blocks and Template Library by Otter. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages.
 * [Premium Blocks](https://wordpress.org/plugins/premium-blocks-for-gutenberg/) - Gutenberg blocks that will help you build amazing pages with the new WordPress Gutenberg editor.
 * [Qubely Blocks – Full-fledged Gutenberg Toolkit](https://wordpress.org/plugins/qubely/) - The one and only Gutenberg block plugin you will ever need.
