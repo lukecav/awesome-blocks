@@ -22,6 +22,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Caxton – Create Pro page layouts in Gutenberg](https://wordpress.org/plugins/caxton/) - Caxton - blocks for Gutenberg.
 * [CoBlocks](https://wordpress.org/plugins/coblocks/) - CoBlocks is a suite of professional page building content blocks for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress.
 * [Cloud Blocks](https://wordpress.org/plugins/cloud-blocks/) - Your library of Gutenberg blocks in the cloud.
+* [Creative Blocks](https://wordpress.org/plugins/creative-blocks/) - The Creative Blocks, an elegant professional page building blocks for the WordPress Gutenberg block editor is the collection of flexible, clean, simple and reactive blocks ready to use in your pages and posts. Creative Blocks is an exclusively powerful approach to blogging and creating content.
 * [Easy Blocks – Gutenberg Blocks Collection](https://wordpress.org/plugins/easy-blocks/) - Collection of Gutenberg Blocks for WordPress Block Editor.
 * [Easy Digital Downloads Blocks](https://wordpress.org/plugins/edd-blocks) - Display Downloads, Categories and Tags using the new WordPress editor.
 * [Enhanced Blocks](https://wordpress.org/plugins/enhanced-blocks/) - Enhanced Blocks - Page Builder blocks for Gutenberg Editor | Design responsive WordPress sites with few clicks | First ever Gutenberg block editor plugin for site building which is on the constant update.
