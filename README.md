@@ -31,6 +31,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Getwid – Gutenberg Blocks](https://wordpress.org/plugins/getwid/) - Extra Gutenberg blocks for building seamless and aesthetic websites in the WordPress block editor.
 * [Ghost Kit](https://wordpress.org/plugins/ghostkit/) - Blocks collection and extensions for Gutenberg.
 * [Grids](https://wordpress.org/plugins/grids/) - Layout builder for WordPress.
+* [Gutentor](https://wordpress.org/plugins/gutentor/) - The most advanced yet easy drag & drop block page builder. Create masterpiece, pixel perfect websites using modern WordPress way. Work with any theme, create any design.
 * [Kadence Blocks](https://wordpress.org/plugins/kadence-blocks/) - Advanced Page Building Blocks for Gutenberg. Create custom column layouts, backgrounds, dual buttons, icons etc.
 * [Kioken Blocks](https://wordpress.org/plugins/kioken-blocks/) - Gutenberg Page Builder Utility. The next best thing after Gutenberg.
 * [LSX Blocks Plugin](https://wordpress.org/plugins/lsx-blocks/) -  The LSX Blocks plugin gives you a collection of Guteberg blocks that you can use and customize. All the blocks are built to work with our powerful LSX theme.
