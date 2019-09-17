@@ -43,6 +43,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Packerland Custom Blocks](https://wordpress.org/plugins/packerland-custom-blocks/) - Updates Gutenberg with extra features.
 * [Premium Blocks](https://wordpress.org/plugins/premium-blocks-for-gutenberg/) - Gutenberg blocks that will help you build amazing pages with the new WordPress Gutenberg editor.
 * [Qubely Blocks – Full-fledged Gutenberg Toolkit](https://wordpress.org/plugins/qubely/) - The one and only Gutenberg block plugin you will ever need.
+* [Reusable Blocks Extended](https://wordpress.org/plugins/reusable-blocks-extended/) - Extend Gutenberg Reusable Blocks feature with a complete admin panel, widgets, shortcodes and PHP functions.
 * [Section Block](https://wordpress.org/plugins/section-block/) - Adds a Section Block to new WordPress Blocks editor.
 * [Stackable](https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/) - Blocks for everyone.
 * [Stylist](https://wordpress.org/plugins/stylist/) - Simple yet powerful visual style editor.
