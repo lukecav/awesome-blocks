@@ -26,6 +26,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Creative Commons](https://wordpress.org/plugins/creative-commons/) - Official Creative Commons plugin for licensing your content. With Creative Commons licenses, keep your copyright AND share your creativity.
 * [Easy Blocks – Gutenberg Blocks Collection](https://wordpress.org/plugins/easy-blocks/) - Collection of Gutenberg Blocks for WordPress Block Editor.
 * [Easy Digital Downloads Blocks](https://wordpress.org/plugins/edd-blocks) - Display Downloads, Categories and Tags using the new WordPress editor.
+* [Embed Block for GitHub](https://wordpress.org/plugins/embed-block-for-github/) - Easily embed GitHub repositories in Gutenberg Editor.
 * [Enhanced Blocks](https://wordpress.org/plugins/enhanced-blocks/) - Enhanced Blocks - Page Builder blocks for Gutenberg Editor | Design responsive WordPress sites with few clicks | First ever Gutenberg block editor plugin for site building which is on the constant update.
 * [Disable Gutenberg Blocks – Block Manager](https://wordpress.org/plugins/disable-gutenberg-blocks/) - Remove unwanted blocks from the Gutenberg Block Inserter.
 * [Gap Block](https://wordpress.org/plugins/gap-block/) - Adds a Gap Block to new WordPress Blocks editor.
