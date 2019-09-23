@@ -40,6 +40,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Mighty Blocks](https://wordpress.org/plugins/mighty-blocks/) -  Gutenberg on Steroids.
 * [Modal Guten Block](https://wordpress.org/plugins/modal-block/) -  This is a Gutenberg block modal / popup plugin.
 * [Multipurpose Gutenberg Block](https://wordpress.org/plugins/multipurpose-block/) - Single block containing multiple elements, It will enhance your website visibility and your needs. With this, you will change page layout (Fixed, Semi), set All Background Property (like  color, overlay, opacity, gradient style), set different Border, set height, width and set All Padding Property.
+* [NicheTable – Table Block For Gutenberg](https://wordpress.org/plugins/nichetable/) - Product comparison table plugin for affiliate marketers.
 * [Nova Blocks](https://wordpress.org/plugins/nova-blocks/) - Nova Blocks is a collection of distinctive Gutenberg blocks</strong>, committed to making your site shine like a newborn star. It is taking a design-driven approach to help you made the right decisions and showcase your content in the best shape.
 * [Otter Blocks](https://wordpress.org/plugins/otter-blocks/) - Create beautiful and attracting posts, pages, and landing pages with Gutenberg Blocks and Template Library by Otter. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages.
 * [Packerland Custom Blocks](https://wordpress.org/plugins/packerland-custom-blocks/) - Updates Gutenberg with extra features.
