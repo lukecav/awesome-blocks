@@ -34,6 +34,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Ghost Kit](https://wordpress.org/plugins/ghostkit/) - Blocks collection and extensions for Gutenberg.
 * [Grids](https://wordpress.org/plugins/grids/) - Layout builder for WordPress.
 * [Gutenberg Blocks – Ultimate Post Blocks](https://wordpress.org/plugins/ultimate-post/) - Ultimate Post blocks is a Gutenberg block Plugin for creating dynamic blog listing, grid and slider.
+* [Guteblock](https://wordpress.org/plugins/guteblock/) -  Guteblock is an exquisite collection of blocks redefining the use of Gutenberg (the brand-new WordPress Block Editor).
 * [Gutenslider – Gutenberg slider block](https://wordpress.org/plugins/gutenslider/) - Simple, intuitive, powerfull image and video slider block for Gutenberg that creates appealing slides to enrich your content. Gutenslider delivers.
 * [Gutentor](https://wordpress.org/plugins/gutentor/) - The most advanced yet easy drag & drop block page builder. Create masterpiece, pixel perfect websites using modern WordPress way. Work with any theme, create any design.
 * [Kadence Blocks](https://wordpress.org/plugins/kadence-blocks/) - Advanced Page Building Blocks for Gutenberg. Create custom column layouts, backgrounds, dual buttons, icons etc.
