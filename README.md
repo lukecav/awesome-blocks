@@ -47,6 +47,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Nova Blocks](https://wordpress.org/plugins/nova-blocks/) - Nova Blocks is a collection of distinctive Gutenberg blocks</strong>, committed to making your site shine like a newborn star. It is taking a design-driven approach to help you made the right decisions and showcase your content in the best shape.
 * [Otter Blocks](https://wordpress.org/plugins/otter-blocks/) - Create beautiful and attracting posts, pages, and landing pages with Gutenberg Blocks and Template Library by Otter. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages.
 * [Packerland Custom Blocks](https://wordpress.org/plugins/packerland-custom-blocks/) - Updates Gutenberg with extra features.
+* [Power Blocks](https://wordpress.org/plugins/power-blocks/) - Powerful and feature rich blocks for the WordPress Gutenberg editor.
 * [Premium Blocks](https://wordpress.org/plugins/premium-blocks-for-gutenberg/) - Gutenberg blocks that will help you build amazing pages with the new WordPress Gutenberg editor.
 * [PricingBlock](https://wordpress.org/plugins/pricingblock/) - With PricingBlock you can create modren pricing table with Gutenberg in just few clicks.
 * [Qubely Blocks – Full-fledged Gutenberg Toolkit](https://wordpress.org/plugins/qubely/) - The one and only Gutenberg block plugin you will ever need.
