@@ -57,6 +57,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Section Block](https://wordpress.org/plugins/section-block/) - Adds a Section Block to new WordPress Blocks editor.
 * [Stackable](https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/) - Blocks for everyone.
 * [Stylist](https://wordpress.org/plugins/stylist/) - Simple yet powerful visual style editor.
+* [Stylistic Modals](https://wordpress.org/plugins/stylistic-modals/) - Create easily beautiful popups in your individual design and write your content with the Gutenberg Editor.
 * [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/) - WooCommerce blocks for the Gutenberg editor.
 * [WP Block Pack](https://wordpress.org/plugins/wp-block-pack/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
 * [WP Munich Blocks](https://wordpress.org/plugins/wp-munich-blocks/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
