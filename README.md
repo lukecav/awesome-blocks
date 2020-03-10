@@ -31,6 +31,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Enhanced Blocks](https://wordpress.org/plugins/enhanced-blocks/) - Enhanced Blocks - Page Builder blocks for Gutenberg Editor | Design responsive WordPress sites with few clicks | First ever Gutenberg block editor plugin for site building which is on the constant update.
 * [Disable Gutenberg Blocks – Block Manager](https://wordpress.org/plugins/disable-gutenberg-blocks/) - Remove unwanted blocks from the Gutenberg Block Inserter.
 * [Gap Block](https://wordpress.org/plugins/gap-block/) - Adds a Gap Block to new WordPress Blocks editor.
+* [GenerateBlocks](https://generateblocks.com/) - Adds a Gap Block to new WordPress Blocks editor.
 * [Getwid – Gutenberg Blocks](https://wordpress.org/plugins/getwid/) - Extra Gutenberg blocks for building seamless and aesthetic websites in the WordPress block editor.
 * [Ghost Kit](https://wordpress.org/plugins/ghostkit/) - Blocks collection and extensions for Gutenberg.
 * [Grids](https://wordpress.org/plugins/grids/) - Layout builder for WordPress.
