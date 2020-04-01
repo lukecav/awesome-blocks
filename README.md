@@ -17,6 +17,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Block Gallery](https://wordpress.org/plugins/block-gallery/) - The most advanced suite of gallery blocks for the Gutenberg block editor. Create stunning masonry, carousel and stacked galleries in seconds, with the brilliantly intuitive interface. Block Gallery is absolutely the best collection of native editor gallery blocks in the world.
 * [Block Extras](https://wordpress.org/plugins/block-extras/) - This plugin creates extra options for default Gutenberg block types.
 * [Block Lab](https://wordpress.org/plugins/block-lab/) - Create custom blocks effortlessly. No Gutenberg development know-how required.
+* [Blockspare](https://wordpress.org/plugins/blockspare/) - Beautiful Page Building Blocks for WordPress.
 * [Bokez — Awesome Gutenberg Blocks](https://wordpress.org/plugins/bokez-awesome-gutenberg-blocks/) - A beautiful and customizable 
 * [Bootstrap Blocks](https://wordpress.org/plugins/wp-bootstrap-blocks/) - Bootstrap 4 Gutenberg Blocks for WordPress.
 collection of gutenberg blocks, to build professional website with ease.
