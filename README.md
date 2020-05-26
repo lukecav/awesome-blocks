@@ -59,6 +59,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Qubely Blocks – Full-fledged Gutenberg Toolkit](https://wordpress.org/plugins/qubely/) - The one and only Gutenberg block plugin you will ever need.
 * [Reusable Blocks Extended](https://wordpress.org/plugins/reusable-blocks-extended/) - Extend Gutenberg Reusable Blocks feature with a complete admin panel, widgets, shortcodes and PHP functions.
 * [Section Block](https://wordpress.org/plugins/section-block/) - Adds a Section Block to new WordPress Blocks editor.
+* [Shinobi Blocks](https://wordpress.org/plugins/shinobi-blocks/) - A custom block plugin for Gutenberg.
 * [Stackable](https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/) - Blocks for everyone.
 * [Stylist](https://wordpress.org/plugins/stylist/) - Simple yet powerful visual style editor.
 * [Stylistic Modals](https://wordpress.org/plugins/stylistic-modals/) - Create easily beautiful popups in your individual design and write your content with the Gutenberg Editor.
