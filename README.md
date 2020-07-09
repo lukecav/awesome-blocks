@@ -60,6 +60,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Premium Blocks](https://wordpress.org/plugins/premium-blocks-for-gutenberg/) - Gutenberg blocks that will help you build amazing pages with the new WordPress Gutenberg editor.
 * [PricingBlock](https://wordpress.org/plugins/pricingblock/) - With PricingBlock you can create modren pricing table with Gutenberg in just few clicks.
 * [Qubely Blocks – Full-fledged Gutenberg Toolkit](https://wordpress.org/plugins/qubely/) - The one and only Gutenberg block plugin you will ever need.
+* [Responsive Block Editor Addons](https://wordpress.org/plugins/responsive-block-editor-addons/) - Responsive Blocks for Gutenberg.
 * [Reusable Blocks Extended](https://wordpress.org/plugins/reusable-blocks-extended/) - Extend Gutenberg Reusable Blocks feature with a complete admin panel, widgets, shortcodes and PHP functions.
 * [Section Block](https://wordpress.org/plugins/section-block/) - Adds a Section Block to new WordPress Blocks editor.
 * [Shinobi Blocks](https://wordpress.org/plugins/shinobi-blocks/) - A custom block plugin for Gutenberg.
