@@ -54,6 +54,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [K2 Blocks](https://wordpress.org/plugins/k2-blocks/) - Blocks for the gutenberg editor.
 * [Kadence Blocks](https://wordpress.org/plugins/kadence-blocks/) - Advanced Page Building Blocks for Gutenberg. Create custom column layouts, backgrounds, dual buttons, icons etc.
 * [Kioken Blocks](https://wordpress.org/plugins/kioken-blocks/) - Gutenberg Page Builder Utility. The next best thing after Gutenberg.
+* [KitIcon WordPress Gutenberg Icon Block](https://wordpress.org/plugins/kiticon-icon-block/) - KitIcon is icon block for WordPress Gutenberg Block.
 * [LSX Blocks Plugin](https://wordpress.org/plugins/lsx-blocks/) -  The LSX Blocks plugin gives you a collection of Guteberg blocks that you can use and customize. All the blocks are built to work with our powerful LSX theme.
 * [Mighty Blocks](https://wordpress.org/plugins/mighty-blocks/) -  Gutenberg on Steroids.
 * [Modal Guten Block](https://wordpress.org/plugins/modal-block/) -  This is a Gutenberg block modal / popup plugin.
