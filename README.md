@@ -56,6 +56,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Gutenslider – Gutenberg slider block](https://wordpress.org/plugins/gutenslider/) - Simple, intuitive, powerfull image and video slider block for Gutenberg that creates appealing slides to enrich your content. Gutenslider delivers.
 * [Gutentor](https://wordpress.org/plugins/gutentor/) - The most advanced yet easy drag & drop block page builder. Create masterpiece, pixel perfect websites using modern WordPress way. Work with any theme, create any design.
 * [Heading Block by Gutenix](https://wordpress.org/plugins/heading-block-by-gutenix/) - Heading block by Gutenix is a plugin for creating responsive heading elements in the native WordPress blocks editor.
+* [Image Comparison Block](https://wordpress.org/plugins/image-comparison-block/) - A block to let your visitors compare between two images. After, before, horizontal, and vertical comparison.
 * [K2 Blocks](https://wordpress.org/plugins/k2-blocks/) - Blocks for the gutenberg editor.
 * [Kadence Blocks](https://wordpress.org/plugins/kadence-blocks/) - Advanced Page Building Blocks for Gutenberg. Create custom column layouts, backgrounds, dual buttons, icons etc.
 * [Kioken Blocks](https://wordpress.org/plugins/kioken-blocks/) - Gutenberg Page Builder Utility. The next best thing after Gutenberg.
