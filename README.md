@@ -79,6 +79,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Recipe Block](https://wordpress.org/plugins/recipe-block/) - A block for displaying recipe content on your site.
 * [Responsive Block Editor Addons](https://wordpress.org/plugins/responsive-block-editor-addons/) - Responsive Blocks for Gutenberg.
 * [Reusable Blocks Extended](https://wordpress.org/plugins/reusable-blocks-extended/) - Extend Gutenberg Reusable Blocks feature with a complete admin panel, widgets, shortcodes and PHP functions.
+* [ScBlocks](https://wordpress.org/plugins/scblocks/) - A collection of Gutenberg Blocks that help you build WordPress sites.
 * [Section Block](https://wordpress.org/plugins/section-block/) - Adds a Section Block to new WordPress Blocks editor.
 * [Shinobi Blocks](https://wordpress.org/plugins/shinobi-blocks/) - A custom block plugin for Gutenberg.
 * [Stackable](https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/) - Blocks for everyone.
