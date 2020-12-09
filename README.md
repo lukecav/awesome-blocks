@@ -87,6 +87,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Stylistic Modals](https://wordpress.org/plugins/stylistic-modals/) - Create easily beautiful popups in your individual design and write your content with the Gutenberg Editor.
 * [Superb Blocks](https://wordpress.org/plugins/superb-blocks/) - Add new awesome features to the WordPress editor with Superb blocks.
 * [Table of Contents Block](https://wordpress.org/plugins/table-of-contents/) - Improve readability and navigation of your websites with the Table of Contents Block.
+* [The Plus Addons for Gutenberg](https://wordpress.org/plugins/the-plus-addons-for-block-editor/) - Biggest collection of Blocks and features to improve and supercharge your Gutenberg, A default and most powerful page builder of WordPress. 
 * [Wholesome Publishing](https://wordpress.org/plugins/wholesome-publishing/) - Wholesome Publishing: Editor comments for WordPress Gutenberg blocks and Draft block support.
 * [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/) - WooCommerce blocks for the Gutenberg editor.
 * [WP Block Pack](https://wordpress.org/plugins/wp-block-pack/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
