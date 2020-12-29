@@ -39,6 +39,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Easy Blocks – Gutenberg Blocks Collection](https://wordpress.org/plugins/easy-blocks/) - Collection of Gutenberg Blocks for WordPress Block Editor.
 * [Easy Digital Downloads Blocks](https://wordpress.org/plugins/edd-blocks) - Display Downloads, Categories and Tags using the new WordPress editor.
 * [EditorPlus](https://wordpress.org/plugins/editorplus/) - EditorsPlus extends Gutenberg editor with advanced design controls and more features.
+* [Editor Block Outline](https://wordpress.org/plugins/editor-block-outline/) - Add outline around Gutenberg blocks while editing.
 * [Embed Block for GitHub](https://wordpress.org/plugins/embed-block-for-github/) - Easily embed GitHub repositories in Gutenberg Editor.
 * [Enhanced Blocks](https://wordpress.org/plugins/enhanced-blocks/) - Enhanced Blocks - Page Builder blocks for Gutenberg Editor | Design responsive WordPress sites with few clicks | First ever Gutenberg block editor plugin for site building which is on the constant update.
 * [Event Block](https://wordpress.org/plugins/event/) - Show the time and location of an event.
