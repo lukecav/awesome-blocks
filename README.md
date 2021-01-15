@@ -29,6 +29,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Bokez — Awesome Gutenberg Blocks](https://wordpress.org/plugins/bokez-awesome-gutenberg-blocks/) - A beautiful and customizable 
 * [Bootstrap Blocks](https://wordpress.org/plugins/wp-bootstrap-blocks/) - Bootstrap 4 Gutenberg Blocks for WordPress.
 collection of gutenberg blocks, to build professional website with ease.
+* [Buba Blocks](https://wordpress.org/plugins/buba-blocks/) - Buba Blocks adds the missing blocks and configuration you need to build professional websites.
 * [Caxton – Create Pro page layouts in Gutenberg](https://wordpress.org/plugins/caxton/) - Caxton - blocks for Gutenberg.
 * [CoBlocks](https://wordpress.org/plugins/coblocks/) - CoBlocks is a suite of professional page building content blocks for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress.
 * [Code Syntax Block](https://wordpress.org/plugins/code-syntax-block/) - A plugin to extend Gutenberg code block with syntax highlighting.
