@@ -14,6 +14,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Advanced Gutenberg Blocks](https://wordpress.org/plugins/advanced-gutenberg-blocks/) - Awesome customizable blocks for the new WordPress Editor.
 * [Aino Blocks](https://wordpress.org/plugins/aino-blocks/) - A collection of page building blocks for creatives. Let's start to build websites that stand out from the crowd.
 * [Attire Blocks](https://wordpress.org/plugins/attire-blocks/) - A collection of beautifully designed, highly customisable gutenberg UI blocks and layouts to make your website look exactly the way you want.
+* [Audius Block](https://wordpress.org/plugins/audius-block/) - Easily embed your favorite tracks from Audius, a brand-new streaming platform built for all musicians.
 * [Awesome Blocks](https://wordpress.org/plugins/awesome-blocks/) - Awesome Blocks plugin comes with about 30 advanced blocks.
 * [Block Context](https://wordpress.org/plugins/block-context/) - Hide Gutenberg editor blocks in context.
 * [Blocks CSS: CSS Animations for Gutenberg Blocks](https://wordpress.org/plugins/blocks-animation/) - Blocks Animation allows you to add CSS Animations to all of your Gutenberg blocks in the most elegent way.
