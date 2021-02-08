@@ -10,6 +10,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Advanced Blocks](https://wordpress.org/plugins/advanced-blocks/) - Gutenberg Block Plugin.
 * [AffiliateWP – Blocks](https://wordpress.org/plugins/affiliatewp-blocks/) - Blocks for AffiliateWP.
 * [Animate Blocks](https://wordpress.org/plugins/animate-blocks/) - Animate your Gutenberg blocks.
+* [Animate WP Blocks](https://wordpress.org/plugins/animate-wp-blocks/) - Add animation controls to each and every Gutenberg Block! Runs on Animate.css v4.
 * [Advanced Gutenberg](https://wordpress.org/plugins/advanced-gutenberg/) - Enhanced tools for Gutenberg editor.
 * [Advanced Gutenberg Blocks](https://wordpress.org/plugins/advanced-gutenberg-blocks/) - Awesome customizable blocks for the new WordPress Editor.
 * [Aino Blocks](https://wordpress.org/plugins/aino-blocks/) - A collection of page building blocks for creatives. Let's start to build websites that stand out from the crowd.
