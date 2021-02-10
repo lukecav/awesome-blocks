@@ -27,6 +27,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Block Lab](https://wordpress.org/plugins/block-lab/) - Create custom blocks effortlessly. No Gutenberg development know-how required.
 * [Block Visibility](https://wordpress.org/plugins/block-visibility/) - Block Visibility allows you to dynamically control which blocks are visible on your website and who can see them.
 * [Blockspare](https://wordpress.org/plugins/blockspare/) - Beautiful Page Building Blocks for WordPress.
+* [Bookmark Card](https://wordpress.org/plugins/bookmark-card/) - Turn any URL into a beautiful preview card.
 * [Book Review Block](https://wordpress.org/plugins/book-review-block/) - A Gutenberg block to add book details and a star rating to a book review post.
 * [Bokez — Awesome Gutenberg Blocks](https://wordpress.org/plugins/bokez-awesome-gutenberg-blocks/) - A beautiful and customizable 
 * [Bootstrap Blocks](https://wordpress.org/plugins/wp-bootstrap-blocks/) - Bootstrap 4 Gutenberg Blocks for WordPress.
