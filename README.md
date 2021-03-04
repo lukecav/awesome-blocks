@@ -40,6 +40,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Cloud Blocks](https://wordpress.org/plugins/cloud-blocks/) - Your library of Gutenberg blocks in the cloud.
 * [Creative Blocks](https://wordpress.org/plugins/creative-blocks/) - The Creative Blocks, an elegant professional page building blocks for the WordPress Gutenberg block editor is the collection of flexible, clean, simple and reactive blocks ready to use in your pages and posts. Creative Blocks is an exclusively powerful approach to blogging and creating content.
 * [Creative Commons](https://wordpress.org/plugins/creative-commons/) - Official Creative Commons plugin for licensing your content. With Creative Commons licenses, keep your copyright AND share your creativity.
+* [Disable Gutenberg Blocks – Block Manager](https://wordpress.org/plugins/disable-gutenberg-blocks/) - Remove unwanted blocks from the Gutenberg Block Inserter.
 * [Easy Blocks – Gutenberg Blocks Collection](https://wordpress.org/plugins/easy-blocks/) - Collection of Gutenberg Blocks for WordPress Block Editor.
 * [Easy Digital Downloads Blocks](https://wordpress.org/plugins/edd-blocks) - Display Downloads, Categories and Tags using the new WordPress editor.
 * [EditorPlus](https://wordpress.org/plugins/editorplus/) - EditorsPlus extends Gutenberg editor with advanced design controls and more features.
@@ -47,7 +48,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Embed Block for GitHub](https://wordpress.org/plugins/embed-block-for-github/) - Easily embed GitHub repositories in Gutenberg Editor.
 * [Enhanced Blocks](https://wordpress.org/plugins/enhanced-blocks/) - Enhanced Blocks - Page Builder blocks for Gutenberg Editor | Design responsive WordPress sites with few clicks | First ever Gutenberg block editor plugin for site building which is on the constant update.
 * [Event Block](https://wordpress.org/plugins/event/) - Show the time and location of an event.
-* [Disable Gutenberg Blocks – Block Manager](https://wordpress.org/plugins/disable-gutenberg-blocks/) - Remove unwanted blocks from the Gutenberg Block Inserter.
+* [Firepro](https://wordpress.org/plugins/firepro/) - Add animations to your site with Firepro blocks
 * [Gap Block](https://wordpress.org/plugins/gap-block/) - Adds a Gap Block to new WordPress Blocks editor.
 * [GenerateBlocks](https://wordpress.org/plugins/generateblocks/) - A small collection of lightweight WordPress blocks that can accomplish nearly anything.
 * [Genesis Custom Blocks](https://wordpress.org/plugins/genesis-custom-blocks/) - The easy way to build custom blocks for Gutenberg.
