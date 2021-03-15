@@ -47,6 +47,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Editor Block Outline](https://wordpress.org/plugins/editor-block-outline/) - Add outline around Gutenberg blocks while editing.
 * [Embed Block for GitHub](https://wordpress.org/plugins/embed-block-for-github/) - Easily embed GitHub repositories in Gutenberg Editor.
 * [Enhanced Blocks](https://wordpress.org/plugins/enhanced-blocks/) - Enhanced Blocks - Page Builder blocks for Gutenberg Editor | Design responsive WordPress sites with few clicks | First ever Gutenberg block editor plugin for site building which is on the constant update.
+* [Essential Blocks for Gutenberg](https://wordpress.org/plugins/essential-blocks/) - The Ultimate Blocks Library for WordPress Gutenberg editor.
 * [Event Block](https://wordpress.org/plugins/event/) - Show the time and location of an event.
 * [Firepro](https://wordpress.org/plugins/firepro/) - Add animations to your site with Firepro blocks
 * [Gap Block](https://wordpress.org/plugins/gap-block/) - Adds a Gap Block to new WordPress Blocks editor.
