@@ -67,6 +67,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Image Comparison Block](https://wordpress.org/plugins/image-comparison-block/) - A block to let your visitors compare between two images. After, before, horizontal, and vertical comparison.
 * [Image Flow Gallery Block](https://wordpress.org/plugins/image-flow-gallery-block/) - Image Flow Gallery Blocks is a simple plugin that adds a Gutenberg block for inserting an image gallery with sliding effect to your pages. Features: Responsive, touch-enabled jQuery plugin, 3D transform and flipping effects.
 * [JetFormBuilder](https://wordpress.org/plugins/jetformbuilder/) - Advanced form builder plugin for Gutenberg. Create forms from the ground up, customize the existing ones, and style them up all in one editor.
+* [JVM Gutenberg Rich Text Icons](https://wordpress.org/plugins/jvm-rich-text-icons/) - Add Font Awesome icons, or icons from a custom icon set to rich text fields in the Gutenberg block editor.
 * [K2 Blocks](https://wordpress.org/plugins/k2-blocks/) - Blocks for the gutenberg editor.
 * [Kadence Blocks](https://wordpress.org/plugins/kadence-blocks/) - Advanced Page Building Blocks for Gutenberg. Create custom column layouts, backgrounds, dual buttons, icons etc.
 * [Kioken Blocks](https://wordpress.org/plugins/kioken-blocks/) - Gutenberg Page Builder Utility. The next best thing after Gutenberg.
