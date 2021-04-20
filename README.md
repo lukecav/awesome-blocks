@@ -44,13 +44,13 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Easy Blocks – Gutenberg Blocks Collection](https://wordpress.org/plugins/easy-blocks/) - Collection of Gutenberg Blocks for WordPress Block Editor.
 * [Easy Digital Downloads Blocks](https://wordpress.org/plugins/edd-blocks) - Display Downloads, Categories and Tags using the new WordPress editor.
 * [EditorPlus](https://wordpress.org/plugins/editorplus/) - EditorsPlus extends Gutenberg editor with advanced design controls and more features.
+* [EditorsKit](https://wordpress.org/plugins/block-options/) - Extensive customizations and enhancements to core blocks.
 * [Editor Block Outline](https://wordpress.org/plugins/editor-block-outline/) - Add outline around Gutenberg blocks while editing.
 * [Embed Block for GitHub](https://wordpress.org/plugins/embed-block-for-github/) - Easily embed GitHub repositories in Gutenberg Editor.
 * [Enhanced Blocks](https://wordpress.org/plugins/enhanced-blocks/) - Enhanced Blocks - Page Builder blocks for Gutenberg Editor | Design responsive WordPress sites with few clicks | First ever Gutenberg block editor plugin for site building which is on the constant update.
 * [Essential Blocks for Gutenberg](https://wordpress.org/plugins/essential-blocks/) - The Ultimate Blocks Library for WordPress Gutenberg editor.
 * [Event Block](https://wordpress.org/plugins/event/) - Show the time and location of an event.
 * [Firepro](https://wordpress.org/plugins/firepro/) - Add animations to your site with Firepro blocks
-* [Gap Block](https://wordpress.org/plugins/gap-block/) - Adds a Gap Block to new WordPress Blocks editor.
 * [GenerateBlocks](https://wordpress.org/plugins/generateblocks/) - A small collection of lightweight WordPress blocks that can accomplish nearly anything.
 * [Genesis Custom Blocks](https://wordpress.org/plugins/genesis-custom-blocks/) - The easy way to build custom blocks for Gutenberg.
 * [Genesis Blocks](https://wordpress.org/plugins/genesis-blocks/) - A beautiful collection of handy blocks to help you get started with the new WordPress editor.
@@ -81,6 +81,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Nova Blocks](https://wordpress.org/plugins/nova-blocks/) - Nova Blocks is a collection of distinctive Gutenberg blocks</strong>, committed to making your site shine like a newborn star. It is taking a design-driven approach to help you made the right decisions and showcase your content in the best shape.
 * [Osom Blocks](https://wordpress.org/plugins/osomblocks/) - Gutenberg Block collection for OsomPress themes.
 * [Otter Blocks](https://wordpress.org/plugins/otter-blocks/) - Create beautiful and attracting posts, pages, and landing pages with Gutenberg Blocks and Template Library by Otter. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages.
+* [Out of the Block: OpenStreetMap](https://wordpress.org/plugins/ootb-openstreetmap/) - A map block using OpenStreetMap and leaflet.js.
 * [Packerland Custom Blocks](https://wordpress.org/plugins/packerland-custom-blocks/) - Updates Gutenberg with extra features.
 * [Power Blocks](https://wordpress.org/plugins/power-blocks/) - Powerful and feature rich blocks for the WordPress Gutenberg editor.
 * [Powerful Blocks](https://wordpress.org/plugins/powerful-blocks/) - Powerful Blocks is a Gutenberg Block Plugin With Awesome Blocks, Prebuilt Templates and Advanced Controls.
@@ -91,7 +92,6 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Responsive Block Editor Addons](https://wordpress.org/plugins/responsive-block-editor-addons/) - Responsive Blocks for Gutenberg.
 * [Reusable Blocks Extended](https://wordpress.org/plugins/reusable-blocks-extended/) - Extend Gutenberg Reusable Blocks feature with a complete admin panel, widgets, shortcodes and PHP functions.
 * [ScBlocks](https://wordpress.org/plugins/scblocks/) - A collection of Gutenberg Blocks that help you build WordPress sites.
-* [Section Block](https://wordpress.org/plugins/section-block/) - Adds a Section Block to new WordPress Blocks editor.
 * [Shinobi Blocks](https://wordpress.org/plugins/shinobi-blocks/) - A custom block plugin for Gutenberg.
 * [Stackable](https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/) - Blocks for everyone.
 * [Stylist](https://wordpress.org/plugins/stylist/) - Simple yet powerful visual style editor.
