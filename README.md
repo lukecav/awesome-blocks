@@ -93,6 +93,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Reusable Blocks Extended](https://wordpress.org/plugins/reusable-blocks-extended/) - Extend Gutenberg Reusable Blocks feature with a complete admin panel, widgets, shortcodes and PHP functions.
 * [ScBlocks](https://wordpress.org/plugins/scblocks/) - A collection of Gutenberg Blocks that help you build WordPress sites.
 * [Shinobi Blocks](https://wordpress.org/plugins/shinobi-blocks/) - A custom block plugin for Gutenberg.
+* [Sketch Block](https://wordpress.org/plugins/sketch/) - Draw and write freely on a canvas. The block offers color selection, different brush sizes, and with its transparent background can be layered on top of any container block, like groups or covers.
 * [SKT Blocks](https://wordpress.org/plugins/skt-blocks/) - SKT Blocks lets you use the default gutenberg editor and easily create creative websites within minutes with the help of the reusable blocks that can be used both in pages and posts.
 * [Stackable](https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/) - Blocks for everyone.
 * [Stylist](https://wordpress.org/plugins/stylist/) - Simple yet powerful visual style editor.
