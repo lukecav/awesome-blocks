@@ -21,6 +21,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Blocks CSS: CSS Animations for Gutenberg Blocks](https://wordpress.org/plugins/blocks-animation/) - Blocks Animation allows you to add CSS Animations to all of your Gutenberg blocks in the most elegent way.
 * [Blocks for Documents, Articles and FAQs](https://wordpress.org/plugins/blocks-for-documents-articles-and-faqs/) - Easy and fast way to write articles and documents with our simple but powerful blocks.
 * [Block editor assets filter](https://wordpress.org/plugins/block-editor-assets-filter/) - Disable custom blocks not used in block editor editing to speed up JavaScript and prevent conflicts.
+* [Block Editor Bootstrap Blocks](https://wordpress.org/plugins/block-editor-bootstrap-blocks/) - Fully responsive Bootstrap 5 blocks, components and extends for Gutenberg.
 * [Block Gallery](https://wordpress.org/plugins/block-gallery/) - The most advanced suite of gallery blocks for the Gutenberg block editor. Create stunning masonry, carousel and stacked galleries in seconds, with the brilliantly intuitive interface. Block Gallery is absolutely the best collection of native editor gallery blocks in the world.
 * [Block Extras](https://wordpress.org/plugins/block-extras/) - This plugin creates extra options for default Gutenberg block types.
 * [Block for Apple Maps](https://wordpress.org/plugins/maps-block-apple/) - An Apple Maps block for the WordPress block editor (Gutenberg).
