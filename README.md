@@ -104,6 +104,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Templateberg](https://wordpress.org/plugins/templateberg/) - Templateberg is the finest collection of WordPress Gutenberg Templates. 
 * [The Plus Addons for Gutenberg](https://wordpress.org/plugins/the-plus-addons-for-block-editor/) - Biggest collection of Blocks and features to improve and supercharge your Gutenberg, A default and most powerful page builder of WordPress. 
 * [Tiles Progress Block](https://wordpress.org/plugins/tiles-progress-block/) - Add a progress bar block to your website.
+* [Todo List Block](https://wordpress.org/plugins/todo-list-block/) - Add todo lists to posts that render only within the block editor.
 * [Wholesome Publishing](https://wordpress.org/plugins/wholesome-publishing/) - Wholesome Publishing: Editor comments for WordPress Gutenberg blocks and Draft block support.
 * [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/) - WooCommerce blocks for the Gutenberg editor.
 * [WP Block Pack](https://wordpress.org/plugins/wp-block-pack/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
