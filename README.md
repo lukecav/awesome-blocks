@@ -103,7 +103,8 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Stylistic Modals](https://wordpress.org/plugins/stylistic-modals/) - Create easily beautiful popups in your individual design and write your content with the Gutenberg Editor.
 * [Superb Blocks](https://wordpress.org/plugins/superb-blocks/) - Add new awesome features to the WordPress editor with Superb blocks.
 * [Table of Contents Block](https://wordpress.org/plugins/table-of-contents/) - Improve readability and navigation of your websites with the Table of Contents Block.
-* [Templateberg](https://wordpress.org/plugins/templateberg/) - Templateberg is the finest collection of WordPress Gutenberg Templates. 
+* [Templateberg](https://wordpress.org/plugins/templateberg/) - Templateberg is the finest collection of WordPress Gutenberg Templates.
+* [The Icon Block](https://wordpress.org/plugins/icon-block/) - A simple little block that allows you add an SVG icon or graphic to your website.
 * [The Plus Addons for Gutenberg](https://wordpress.org/plugins/the-plus-addons-for-block-editor/) - Biggest collection of Blocks and features to improve and supercharge your Gutenberg, A default and most powerful page builder of WordPress. 
 * [Tiles Progress Block](https://wordpress.org/plugins/tiles-progress-block/) - Add a progress bar block to your website.
 * [Todo List Block](https://wordpress.org/plugins/todo-list-block/) - Add todo lists to posts that render only within the block editor.
