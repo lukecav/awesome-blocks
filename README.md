@@ -28,6 +28,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Block Extras](https://wordpress.org/plugins/block-extras/) - This plugin creates extra options for default Gutenberg block types.
 * [Block for Apple Maps](https://wordpress.org/plugins/maps-block-apple/) - An Apple Maps block for the WordPress block editor (Gutenberg).
 * [Block Lab](https://wordpress.org/plugins/block-lab/) - Create custom blocks effortlessly. No Gutenberg development know-how required.
+* [Blockly](https://wordpress.org/plugins/blockly/) - Blockly blocks for bloging website. Create Better Content With Gutenberg.
 * [Block Visibility](https://wordpress.org/plugins/block-visibility/) - Block Visibility allows you to dynamically control which blocks are visible on your website and who can see them.
 * [Blockspare](https://wordpress.org/plugins/blockspare/) - Beautiful Page Building Blocks for WordPress.
 * [Bookmark Card](https://wordpress.org/plugins/bookmark-card/) - Turn any URL into a beautiful preview card.
