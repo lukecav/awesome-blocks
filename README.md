@@ -14,6 +14,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Animate WP Blocks](https://wordpress.org/plugins/animate-wp-blocks/) - Add animation controls to each and every Gutenberg Block! Runs on Animate.css v4.
 * [Advanced Gutenberg](https://wordpress.org/plugins/advanced-gutenberg/) - Enhanced tools for Gutenberg editor.
 * [Advanced Gutenberg Blocks](https://wordpress.org/plugins/advanced-gutenberg-blocks/) - Awesome customizable blocks for the new WordPress Editor.
+* [Aino Accordion Faq Block](https://wordpress.org/plugins/aino-accordion-faq-block/) - Create Frequently Asked Question's with Aino's Accordion and FAQ Block.
 * [Aino Blocks](https://wordpress.org/plugins/aino-blocks/) - A collection of page building blocks for creatives. Let's start to build websites that stand out from the crowd.
 * [All Bootstrap Blocks](https://wordpress.org/plugins/all-bootstrap-blocks/) -  Build agency quality Bootstrap websites at Lightspeed. All Bootstrap Blocks is a free WordPress plugin for agencies, freelancers and hobbyists. Speeding up the delivery of WordPress websites by making the Bootstrap framework available directly within the block editor.
 * [Attire Blocks](https://wordpress.org/plugins/attire-blocks/) - A collection of beautifully designed, highly customisable gutenberg UI blocks and layouts to make your website look exactly the way you want.
