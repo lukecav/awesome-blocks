@@ -16,6 +16,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Advanced Gutenberg Blocks](https://wordpress.org/plugins/advanced-gutenberg-blocks/) - Awesome customizable blocks for the new WordPress Editor.
 * [Aino Accordion Faq Block](https://wordpress.org/plugins/aino-accordion-faq-block/) - Create Frequently Asked Question's with Aino's Accordion and FAQ Block.
 * [Aino Blocks](https://wordpress.org/plugins/aino-blocks/) - A collection of page building blocks for creatives. Let's start to build websites that stand out from the crowd.
+* [Aino Notification Banner Block](https://wordpress.org/plugins/aino-notification-block/) - Create alert, error, info, help, welcome, success and warning notification banners and fullscreen info bars with Aino's Notification Block.
 * [All Bootstrap Blocks](https://wordpress.org/plugins/all-bootstrap-blocks/) -  Build agency quality Bootstrap websites at Lightspeed. All Bootstrap Blocks is a free WordPress plugin for agencies, freelancers and hobbyists. Speeding up the delivery of WordPress websites by making the Bootstrap framework available directly within the block editor.
 * [Attire Blocks](https://wordpress.org/plugins/attire-blocks/) - A collection of beautifully designed, highly customisable gutenberg UI blocks and layouts to make your website look exactly the way you want.
 * [Audius Block](https://wordpress.org/plugins/audius-block/) - Easily embed your favorite tracks from Audius, a brand-new streaming platform built for all musicians.
