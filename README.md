@@ -9,7 +9,8 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [ACF Blocks – The Ultimate Gutenberg Blocks Suite](https://wordpress.org/plugins/acf-blocks/) - Supercharge your Gutenberg editor with high quality beautiful WordPress blocks. Ready-to-use ACF Blocks.
 * [Advanced Blocks](https://wordpress.org/plugins/advanced-blocks/) - Gutenberg Block Plugin.
 * [Advanced Gutenberg Team Block](https://wordpress.org/plugins/advanced-team-block/) - Advanced Team Block is a custom Gutenberg Block developed with Gutenberg Native Components.
-* [AffiliateWP – Blocks](https://wordpress.org/plugins/affiliatewp-blocks/) - Blocks for AffiliateWP.
+* [Advanced Gutenberg Team Block](https://wordpress.org/plugins/advanced-post-block/) - Advanced Team Block is a custom Gutenberg Block developed with Gutenberg Native Components.
+* [Advanced Post Block](https://wordpress.org/plugins/affiliatewp-blocks/) - Advanced Post Block - Display Posts in Gutenberg Editor.
 * [Animate Blocks](https://wordpress.org/plugins/animate-blocks/) - Animate your Gutenberg blocks.
 * [Animate WP Blocks](https://wordpress.org/plugins/animate-wp-blocks/) - Add animation controls to each and every Gutenberg Block! Runs on Animate.css v4.
 * [Advanced Gutenberg](https://wordpress.org/plugins/advanced-gutenberg/) - Enhanced tools for Gutenberg editor.
