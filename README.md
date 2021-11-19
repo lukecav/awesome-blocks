@@ -99,6 +99,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [PricingBlock](https://wordpress.org/plugins/pricingblock/) - With PricingBlock you can create modren pricing table with Gutenberg in just few clicks.
 * [Qubely Blocks – Full-fledged Gutenberg Toolkit](https://wordpress.org/plugins/qubely/) - The one and only Gutenberg block plugin you will ever need.
 * [Recipe Block](https://wordpress.org/plugins/recipe-block/) - A block for displaying recipe content on your site.
+* [Retro Winamp Block](https://wordpress.org/plugins/retro-winamp-block/) - A Winamp-styled audio block for all your retro music player needs.
 * [Responsive Block Editor Addons](https://wordpress.org/plugins/responsive-block-editor-addons/) - Responsive Blocks for Gutenberg.
 * [Reusable Blocks Extended](https://wordpress.org/plugins/reusable-blocks-extended/) - Extend Gutenberg Reusable Blocks feature with a complete admin panel, widgets, shortcodes and PHP functions.
 * [ScBlocks](https://wordpress.org/plugins/scblocks/) - A collection of Gutenberg Blocks that help you build WordPress sites.
