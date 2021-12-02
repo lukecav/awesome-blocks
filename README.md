@@ -60,6 +60,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Essential Blocks for Gutenberg](https://wordpress.org/plugins/essential-blocks/) - The Ultimate Blocks Library for WordPress Gutenberg editor.
 * [Event Block](https://wordpress.org/plugins/event/) - Show the time and location of an event.
 * [Firepro](https://wordpress.org/plugins/firepro/) - Add animations to your site with Firepro blocks
+* [Game Review Block](https://wordpress.org/plugins/game-review-block/) - Add a review rating block with a score from 1 to 10 to your post. Adds schema.org meta data for Rich Results in search engines.
 * [GenerateBlocks](https://wordpress.org/plugins/generateblocks/) - A small collection of lightweight WordPress blocks that can accomplish nearly anything.
 * [Genesis Custom Blocks](https://wordpress.org/plugins/genesis-custom-blocks/) - The easy way to build custom blocks for Gutenberg.
 * [Genesis Blocks](https://wordpress.org/plugins/genesis-blocks/) - A beautiful collection of handy blocks to help you get started with the new WordPress editor.
