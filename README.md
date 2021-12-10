@@ -98,6 +98,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Powerful Blocks](https://wordpress.org/plugins/powerful-blocks/) - Powerful Blocks is a Gutenberg Block Plugin With Awesome Blocks, Prebuilt Templates and Advanced Controls.
 * [Premium Blocks](https://wordpress.org/plugins/premium-blocks-for-gutenberg/) - Gutenberg blocks that will help you build amazing pages with the new WordPress Gutenberg editor.
 * [PricingBlock](https://wordpress.org/plugins/pricingblock/) - With PricingBlock you can create modren pricing table with Gutenberg in just few clicks.
+* [Publisher Media Kit](https://wordpress.org/plugins/publisher-media-kit/) - Pre-configured Media Kit Page using Gutenberg Block Patterns.
 * [Qubely Blocks – Full-fledged Gutenberg Toolkit](https://wordpress.org/plugins/qubely/) - The one and only Gutenberg block plugin you will ever need.
 * [Recipe Block](https://wordpress.org/plugins/recipe-block/) - A block for displaying recipe content on your site.
 * [Retro Winamp Block](https://wordpress.org/plugins/retro-winamp-block/) - A Winamp-styled audio block for all your retro music player needs.
