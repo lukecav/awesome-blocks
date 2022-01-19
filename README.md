@@ -77,6 +77,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Heading Block by Gutenix](https://wordpress.org/plugins/heading-block-by-gutenix/) - Heading block by Gutenix is a plugin for creating responsive heading elements in the native WordPress blocks editor.
 * [Image Comparison Block](https://wordpress.org/plugins/image-comparison-block/) - A block to let your visitors compare between two images. After, before, horizontal, and vertical comparison.
 * [Image Flow Gallery Block](https://wordpress.org/plugins/image-flow-gallery-block/) - Image Flow Gallery Blocks is a simple plugin that adds a Gutenberg block for inserting an image gallery with sliding effect to your pages. Features: Responsive, touch-enabled jQuery plugin, 3D transform and flipping effects.
+* [Image Styles for Core Block](https://wordpress.org/plugins/k2-core-block-image-styles/) - This plugin adds a new image styles for the WordPress Core Image block.
 * [JetFormBuilder](https://wordpress.org/plugins/jetformbuilder/) - Advanced form builder plugin for Gutenberg. Create forms from the ground up, customize the existing ones, and style them up all in one editor.
 * [JVM Gutenberg Rich Text Icons](https://wordpress.org/plugins/jvm-rich-text-icons/) - Add Font Awesome icons, or icons from a custom icon set to rich text fields in the Gutenberg block editor.
 * [K2 Blocks](https://wordpress.org/plugins/k2-blocks/) - Blocks for the gutenberg editor.
