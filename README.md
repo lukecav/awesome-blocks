@@ -120,6 +120,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [The Icon Block](https://wordpress.org/plugins/icon-block/) - A simple little block that allows you add an SVG icon or graphic to your website.
 * [The Plus Addons for Gutenberg](https://wordpress.org/plugins/the-plus-addons-for-block-editor/) - Biggest collection of Blocks and features to improve and supercharge your Gutenberg, A default and most powerful page builder of WordPress. 
 * [Tiles Progress Block](https://wordpress.org/plugins/tiles-progress-block/) - Add a progress bar block to your website.
+* [Todo Block](https://wordpress.org/plugins/todo-block/) - ToDo List Block for Gutenberg.
 * [Todo List Block](https://wordpress.org/plugins/todo-list-block/) - Add todo lists to posts that render only within the block editor.
 * [Wholesome Publishing](https://wordpress.org/plugins/wholesome-publishing/) - Wholesome Publishing: Editor comments for WordPress Gutenberg blocks and Draft block support.
 * [Wicked Block Builder](https://wordpress.org/plugins/wicked-block-builder/) - Rapidy create custom blocks and patterns.
