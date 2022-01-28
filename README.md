@@ -47,6 +47,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [CoBlocks](https://wordpress.org/plugins/coblocks/) - CoBlocks is a suite of professional page building content blocks for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress.
 * [Code Syntax Block](https://wordpress.org/plugins/code-syntax-block/) - A plugin to extend Gutenberg code block with syntax highlighting.
 * [Content Collaboration with Google-Doc style Gutenberg Block Commenting](https://wordpress.org/plugins/commenting-feature/) - This plugin serves the commenting feature like Google Docs within the Gutenberg Editor.
+* [Classic Menu Block](https://wordpress.org/plugins/classic-menu-block/) - A gutenberg block to use classic menus.
 * [Cloud Blocks](https://wordpress.org/plugins/cloud-blocks/) - Your library of Gutenberg blocks in the cloud.
 * [Creative Blocks](https://wordpress.org/plugins/creative-blocks/) - The Creative Blocks, an elegant professional page building blocks for the WordPress Gutenberg block editor is the collection of flexible, clean, simple and reactive blocks ready to use in your pages and posts. Creative Blocks is an exclusively powerful approach to blogging and creating content.
 * [Creative Commons](https://wordpress.org/plugins/creative-commons/) - Official Creative Commons plugin for licensing your content. With Creative Commons licenses, keep your copyright AND share your creativity.
