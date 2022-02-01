@@ -116,6 +116,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Stylist](https://wordpress.org/plugins/stylist/) - Simple yet powerful visual style editor.
 * [Stylistic Modals](https://wordpress.org/plugins/stylistic-modals/) - Create easily beautiful popups in your individual design and write your content with the Gutenberg Editor.
 * [Superb Blocks](https://wordpress.org/plugins/superb-blocks/) - Add new awesome features to the WordPress editor with Superb blocks.
+* [Super List Block](https://wordpress.org/plugins/superlist-block/) - Nest multiple blocks inside lists of any kind of list (ordered, unordered, no marker, etc), or do away with list markers and use it like a repeater!
 * [Table of Contents Block](https://wordpress.org/plugins/table-of-contents/) - Improve readability and navigation of your websites with the Table of Contents Block.
 * [Templateberg](https://wordpress.org/plugins/templateberg/) - Templateberg is the finest collection of WordPress Gutenberg Templates.
 * [The Icon Block](https://wordpress.org/plugins/icon-block/) - A simple little block that allows you add an SVG icon or graphic to your website.
