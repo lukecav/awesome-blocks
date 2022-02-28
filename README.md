@@ -61,6 +61,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Enhanced Blocks](https://wordpress.org/plugins/enhanced-blocks/) - Enhanced Blocks - Page Builder blocks for Gutenberg Editor | Design responsive WordPress sites with few clicks | First ever Gutenberg block editor plugin for site building which is on the constant update.
 * [Essential Blocks for Gutenberg](https://wordpress.org/plugins/essential-blocks/) - The Ultimate Blocks Library for WordPress Gutenberg editor.
 * [Event Block](https://wordpress.org/plugins/event/) - Show the time and location of an event.
+* [FireBlocks](https://wordpress.org/plugins/fireblocks/) - FireBlocks is a collection of elegand WordPress blocks enhancing the Gutenberg editor experience.
 * [Firepro](https://wordpress.org/plugins/firepro/) - Add animations to your site with Firepro blocks
 * [Game Review Block](https://wordpress.org/plugins/game-review-block/) - Add a review rating block with a score from 1 to 10 to your post. Adds schema.org meta data for Rich Results in search engines.
 * [GenerateBlocks](https://wordpress.org/plugins/generateblocks/) - A small collection of lightweight WordPress blocks that can accomplish nearly anything.
