@@ -102,6 +102,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Packerland Custom Blocks](https://wordpress.org/plugins/packerland-custom-blocks/) - Updates Gutenberg with extra features.
 * [Piano Block](https://wordpress.org/plugins/piano-block/) - Can play a variety of tones using the piano keyboard on the block editor.
 * [Post Format Block](https://wordpress.org/plugins/post-format-block/) - Adds a Post Format Block as a variation of the core/post-terms block.
+* [Post Modified Time Block](https://wordpress.org/plugins/post-modified-time-block/) - A block to display the last updated date of a post.
 * [Power Blocks](https://wordpress.org/plugins/power-blocks/) - Powerful and feature rich blocks for the WordPress Gutenberg editor.
 * [Powerful Blocks](https://wordpress.org/plugins/powerful-blocks/) - Powerful Blocks is a Gutenberg Block Plugin With Awesome Blocks, Prebuilt Templates and Advanced Controls.
 * [Premium Blocks](https://wordpress.org/plugins/premium-blocks-for-gutenberg/) - Gutenberg blocks that will help you build amazing pages with the new WordPress Gutenberg editor.
