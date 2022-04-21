@@ -79,6 +79,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Gutentor](https://wordpress.org/plugins/gutentor/) - The most advanced yet easy drag & drop block page builder. Create masterpiece, pixel perfect websites using modern WordPress way. Work with any theme, create any design.
 * [Gutenverse](https://wordpress.org/plugins/gutenverse/) - Collection of easy to use and customizable blocks for WordPress Block Editor. Build a great website using block provided with Gutenverse.
 * [Heading Block by Gutenix](https://wordpress.org/plugins/heading-block-by-gutenix/) - Heading block by Gutenix is a plugin for creating responsive heading elements in the native WordPress blocks editor.
+* [Icon Separator](https://wordpress.org/plugins/icon-separator/) - A simple horizontal separator with icon.
 * [Image Comparison Block](https://wordpress.org/plugins/image-comparison-block/) - A block to let your visitors compare between two images. After, before, horizontal, and vertical comparison.
 * [Image Flow Gallery Block](https://wordpress.org/plugins/image-flow-gallery-block/) - Image Flow Gallery Blocks is a simple plugin that adds a Gutenberg block for inserting an image gallery with sliding effect to your pages. Features: Responsive, touch-enabled jQuery plugin, 3D transform and flipping effects.
 * [Image Styles for Core Block](https://wordpress.org/plugins/k2-core-block-image-styles/) - This plugin adds a new image styles for the WordPress Core Image block.
