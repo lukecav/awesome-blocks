@@ -34,6 +34,7 @@ Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types
 * [Block for Apple Maps](https://wordpress.org/plugins/maps-block-apple/) - An Apple Maps block for the WordPress block editor (Gutenberg).
 * [Block Lab](https://wordpress.org/plugins/block-lab/) - Create custom blocks effortlessly. No Gutenberg development know-how required.
 * [Blockly](https://wordpress.org/plugins/blockly/) - Blockly blocks for bloging website. Create Better Content With Gutenberg.
+* [Block Slider](https://wordpress.org/plugins/block-slider/) - Create awesome sliders using block slider plugin.
 * [Block Visibility](https://wordpress.org/plugins/block-visibility/) - Block Visibility allows you to dynamically control which blocks are visible on your website and who can see them.
 * [BlocksPlus](https://wordpress.org/plugins/blocksplus/) - A Gutenberg extension plugin, which provides often used blocks with clean and user-friendly design.
 * [Blockspare](https://wordpress.org/plugins/blockspare/) - Beautiful Page Building Blocks for WordPress.
