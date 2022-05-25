@@ -88,7 +88,6 @@ collection of gutenberg blocks, to build professional website with ease.
 * [JVM Gutenberg Rich Text Icons](https://wordpress.org/plugins/jvm-rich-text-icons/) - Add Font Awesome icons, or icons from a custom icon set to rich text fields in the Gutenberg block editor.
 * [K2 Blocks](https://wordpress.org/plugins/k2-blocks/) - Blocks for the gutenberg editor.
 * [Kadence Blocks](https://wordpress.org/plugins/kadence-blocks/) - Advanced Page Building Blocks for Gutenberg. Create custom column layouts, backgrounds, dual buttons, icons etc.
-* [Kioken Blocks](https://wordpress.org/plugins/kioken-blocks/) - Gutenberg Page Builder Utility. The next best thing after Gutenberg.
 * [KitIcon WordPress Gutenberg Icon Block](https://wordpress.org/plugins/kiticon-icon-block/) - KitIcon is icon block for WordPress Gutenberg Block.
 * [KitPDF](https://wordpress.org/plugins/pdf-viewer-blocks/) - This plugin helps you upload PDF and embed PDF documents to gutenberg blocks quickly and easily.
 * [LottieFiles](https://wordpress.org/plugins/lottiefiles/) - LottieFiles for WordPress is the easiest way to add Lottie animations to your WordPress website using the Gutenberg editor.
