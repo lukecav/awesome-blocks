@@ -133,7 +133,6 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Todo Block](https://wordpress.org/plugins/todo-block/) - ToDo List Block for Gutenberg.
 * [Wavy Divider](https://wordpress.org/plugins/todo-list-block/) -  A creative, fun, lightweight wavy svg divider block to energize your website with character and pizazz.
 * [Todo List Block](https://wordpress.org/plugins/wavy-divider/) - Add todo lists to posts that render only within the block editor.
-* [Wholesome Publishing](https://wordpress.org/plugins/wholesome-publishing/) - Wholesome Publishing: Editor comments for WordPress Gutenberg blocks and Draft block support.
 * [Wicked Block Builder](https://wordpress.org/plugins/wicked-block-builder/) - Rapidy create custom blocks and patterns.
 * [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/) - WooCommerce blocks for the Gutenberg editor.
 * [WP Block Pack](https://wordpress.org/plugins/wp-block-pack/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
