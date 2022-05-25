@@ -70,7 +70,6 @@ collection of gutenberg blocks, to build professional website with ease.
 * [JVM Gutenberg Rich Text Icons](https://wordpress.org/plugins/jvm-rich-text-icons/) - Add Font Awesome icons, or icons from a custom icon set to rich text fields in the Gutenberg block editor.
 * [K2 Blocks](https://wordpress.org/plugins/k2-blocks/) - Blocks for the gutenberg editor.
 * [Kadence Blocks](https://wordpress.org/plugins/kadence-blocks/) - Advanced Page Building Blocks for Gutenberg. Create custom column layouts, backgrounds, dual buttons, icons etc.
-* [Kioken Blocks](https://wordpress.org/plugins/kioken-blocks/) - Gutenberg Page Builder Utility. The next best thing after Gutenberg.
 * [KitIcon WordPress Gutenberg Icon Block](https://wordpress.org/plugins/kiticon-icon-block/) - KitIcon is icon block for WordPress Gutenberg Block.
 * [KitPDF](https://wordpress.org/plugins/pdf-viewer-blocks/) - This plugin helps you upload PDF and embed PDF documents to gutenberg blocks quickly and easily.
 * [LSX Blocks Plugin](https://wordpress.org/plugins/lsx-blocks/) -  The LSX Blocks plugin gives you a collection of Guteberg blocks that you can use and customize. All the blocks are built to work with our powerful LSX theme.
@@ -100,7 +99,6 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Table of Contents Block](https://wordpress.org/plugins/table-of-contents/) - Improve readability and navigation of your websites with the Table of Contents Block.
 * [Templateberg](https://wordpress.org/plugins/templateberg/) - Templateberg is the finest collection of WordPress Gutenberg Templates. 
 * [The Plus Addons for Gutenberg](https://wordpress.org/plugins/the-plus-addons-for-block-editor/) - Biggest collection of Blocks and features to improve and supercharge your Gutenberg, A default and most powerful page builder of WordPress. 
-* [Wholesome Publishing](https://wordpress.org/plugins/wholesome-publishing/) - Wholesome Publishing: Editor comments for WordPress Gutenberg blocks and Draft block support.
 * [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/) - WooCommerce blocks for the Gutenberg editor.
 * [WP Block Pack](https://wordpress.org/plugins/wp-block-pack/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
 * [WP Munich Blocks](https://wordpress.org/plugins/wp-munich-blocks/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
