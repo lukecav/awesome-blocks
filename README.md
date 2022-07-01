@@ -122,9 +122,10 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Social Sharing Block](https://wordpress.org/plugins/social-sharing-block/) - A simple little block that allows you add social share icons to your website.
 * [Sketch Block](https://wordpress.org/plugins/sketch/) - Draw and write freely on a canvas. The block offers color selection, different brush sizes, and with its transparent background can be layered on top of any container block, like groups or covers.
 * [SKT Blocks](https://wordpress.org/plugins/skt-blocks/) - SKT Blocks lets you use the default gutenberg editor and easily create creative websites within minutes with the help of the reusable blocks that can be used both in pages and posts.
+* [SKT Blocks](https://wordpress.org/plugins/smart-blocks/) - SKT Blocks lets you use the default gutenberg editor and easily create creative websites within minutes with the help of the reusable blocks that can be used both in pages and posts.
 * [Stackable](https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/) - Blocks for everyone.
 * [Stylist](https://wordpress.org/plugins/stylist/) - Simple yet powerful visual style editor.
-* [Stylistic Modals](https://wordpress.org/plugins/stylistic-modals/) - Create easily beautiful popups in your individual design and write your content with the Gutenberg Editor.
+* [Smart Blocks](https://wordpress.org/plugins/stylistic-modals/) - Collection of advanced blocks to be used with WordPress Gutenberg Pagebuilder.
 * [Superb Blocks](https://wordpress.org/plugins/superb-blocks/) - Add new awesome features to the WordPress editor with Superb blocks.
 * [Super List Block](https://wordpress.org/plugins/superlist-block/) - Nest multiple blocks inside lists of any kind of list (ordered, unordered, no marker, etc), or do away with list markers and use it like a repeater!
 * [Table of Contents Block](https://wordpress.org/plugins/table-of-contents/) - Improve readability and navigation of your websites with the Table of Contents Block.
