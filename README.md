@@ -1,5 +1,5 @@
-# Awesome Gutenberg Blocks
-Plugins for additional [Gutenberg](https://wordpress.org/gutenberg/) block types.
+# Awesome Blocks
+Plugins for additional [Block](https://wordpress.org/support/article/blocks/) types.
 
 ## Table Of Contents
 * [Block Plugins](#block-plugins)
