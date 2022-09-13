@@ -114,6 +114,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Publisher Media Kit](https://wordpress.org/plugins/publisher-media-kit/) - Pre-configured Media Kit Page using Gutenberg Block Patterns.
 * [Qi Blocks](https://wordpress.org/plugins/qi-blocks/) - A collection of blocks for the Gutenberg block editor, developed by Qode Interactive.
 * [Qubely Blocks – Full-fledged Gutenberg Toolkit](https://wordpress.org/plugins/qubely/) - The one and only Gutenberg block plugin you will ever need.
+* [Radius Blocks](https://wordpress.org/plugins/radius-blocks/) - Included all necessary blocks for gutenberg page editor with advanced settings for container, row, column, post grid, dual button, gallery, faq etc.
 * [Recipe Block](https://wordpress.org/plugins/recipe-block/) - A block for displaying recipe content on your site.
 * [Retro Winamp Block](https://wordpress.org/plugins/retro-winamp-block/) - A Winamp-styled audio block for all your retro music player needs.
 * [Responsive Block Editor Addons](https://wordpress.org/plugins/responsive-block-editor-addons/) - Responsive Blocks for Gutenberg.
