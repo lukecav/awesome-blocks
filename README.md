@@ -61,6 +61,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [EditorsKit](https://wordpress.org/plugins/block-options/) - Extensive customizations and enhancements to core blocks.
 * [Editor Block Outline](https://wordpress.org/plugins/editor-block-outline/) - Add outline around Gutenberg blocks while editing.
 * [Embed Block for GitHub](https://wordpress.org/plugins/embed-block-for-github/) - Easily embed GitHub repositories in Gutenberg Editor.
+* [Embed SoundCloud Block](https://wordpress.org/plugins/embed-soundcloud-block/) - Embed your soundCloud tracks with a beautiful Gutenberg block.
 * [Enhanced Blocks](https://wordpress.org/plugins/enhanced-blocks/) - Enhanced Blocks - Page Builder blocks for Gutenberg Editor | Design responsive WordPress sites with few clicks | First ever Gutenberg block editor plugin for site building which is on the constant update.
 * [Essential Blocks for Gutenberg](https://wordpress.org/plugins/essential-blocks/) - The Ultimate Blocks Library for WordPress Gutenberg editor.
 * [Event Block](https://wordpress.org/plugins/event/) - Show the time and location of an event.
