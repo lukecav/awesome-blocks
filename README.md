@@ -72,7 +72,8 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Genesis Custom Blocks](https://wordpress.org/plugins/genesis-custom-blocks/) - The easy way to build custom blocks for Gutenberg.
 * [Genesis Blocks](https://wordpress.org/plugins/genesis-blocks/) - A beautiful collection of handy blocks to help you get started with the new WordPress editor.
 * [Getwid – Gutenberg Blocks](https://wordpress.org/plugins/getwid/) - Extra Gutenberg blocks for building seamless and aesthetic websites in the WordPress block editor.
-* [Ghost Kit](https://wordpress.org/plugins/ghostkit/) - Blocks collection and extensions for Gutenberg.
+* [GreenShift - Animation and Page Builder Blocks](https://wordpress.org/plugins/ghostkit/) - Animation and page builder for Gutenberg with highest web vitals.
+* [Ghost Kit](https://wordpress.org/plugins/greenshift-animation-and-page-builder-blocks/) - Blocks collection and extensions for Gutenberg.
 * [Grids](https://wordpress.org/plugins/grids/) - Layout builder for WordPress.
 * [Gutenberg Blocks – Ultimate Post Blocks](https://wordpress.org/plugins/ultimate-post/) - Ultimate Post blocks is a Gutenberg block Plugin for creating dynamic blog listing, grid and slider.
 * [Gutenberg Block Manager](https://wordpress.org/plugins/block-manager/) - Globally manage the active state of each Gutenberg block.
