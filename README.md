@@ -55,6 +55,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Cuberg](https://wordpress.org/plugins/cuberg/) - Cuberg is a Powerful Gutenberg Plugin that comes with advanced & flexible features powering up your website and increasing your designing experience.
 * [Disable Gutenberg Blocks – Block Manager](https://wordpress.org/plugins/disable-gutenberg-blocks/) - Remove unwanted blocks from the Gutenberg Block Inserter.
 * [Dynamic Year Block](https://wordpress.org/plugins/dynamic-year-block/) - A block that always displays the current year.
+* [Easy Accordion Gutenberg Block](https://wordpress.org/plugins/easy-accordion-block/) - A custom Gutenberg Block developed with Gutenberg Native Components.
 * [Easy Blocks – Gutenberg Blocks Collection](https://wordpress.org/plugins/easy-blocks/) - Collection of Gutenberg Blocks for WordPress Block Editor.
 * [Easy Digital Downloads Blocks](https://wordpress.org/plugins/edd-blocks) - Display Downloads, Categories and Tags using the new WordPress editor.
 * [EditorPlus](https://wordpress.org/plugins/editorplus/) - EditorsPlus extends Gutenberg editor with advanced design controls and more features.
