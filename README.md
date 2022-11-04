@@ -141,11 +141,13 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Tiles Progress Block](https://wordpress.org/plugins/tiles-progress-block/) - Add a progress bar block to your website.
 * [Todo Block](https://wordpress.org/plugins/todo-block/) - ToDo List Block for Gutenberg.
 * [Todo List Block](https://wordpress.org/plugins/wavy-divider/) - Add todo lists to posts that render only within the block editor.
+* [Ultimate Addons for Gutenberg](https://wordpress.org/plugins/ultimate-addons-for-gutenberg/) - The Ultimate Addons for Gutenberg extends the Gutenberg functionality with several unique and feature-rich blocks that help build websites faster.
+* [Ultimate Blocks](https://wordpress.org/plugins/ultimate-blocks/) - Custom Blocks for Bloggers and Marketers. Create Better Content With Gutenberg.
 * [Wavy Divider](https://wordpress.org/plugins/todo-list-block/) -  A creative, fun, lightweight wavy svg divider block to energize your website with character and pizazz.
 * [Wicked Block Builder](https://wordpress.org/plugins/wicked-block-builder/) - Rapidy create custom blocks and patterns.
 * [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/) - WooCommerce blocks for the Gutenberg editor.
 * [WP Block Pack](https://wordpress.org/plugins/wp-block-pack/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
 * [WP Munich Blocks](https://wordpress.org/plugins/wp-munich-blocks/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
 * [WP Post Block](https://wordpress.org/plugins/wp-post-block/) - A pack of clean, useful and, customizable blocks for the new WordPress block editor.
-* [Ultimate Addons for Gutenberg](https://wordpress.org/plugins/ultimate-addons-for-gutenberg/) - The Ultimate Addons for Gutenberg extends the Gutenberg functionality with several unique and feature-rich blocks that help build websites faster.
-* [Ultimate Blocks](https://wordpress.org/plugins/ultimate-blocks/) - Custom Blocks for Bloggers and Marketers. Create Better Content With Gutenberg.
+* [X3P0 Progress](https://wordpress.org/plugins/x3p0-progress/) - A block for outputting a progress bar.
+* [X3P0 Powered By](https://wordpress.org/plugins/x3p0-powered-by/) - A block that generates a random "Powered by" message. It is meant to replace the typical "Powered by Theme/WordPress" message in footers but can be used anywhere.
