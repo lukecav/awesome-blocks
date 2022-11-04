@@ -140,8 +140,8 @@ collection of gutenberg blocks, to build professional website with ease.
 * [The Plus Addons for Gutenberg](https://wordpress.org/plugins/the-plus-addons-for-block-editor/) - Biggest collection of Blocks and features to improve and supercharge your Gutenberg, A default and most powerful page builder of WordPress. 
 * [Tiles Progress Block](https://wordpress.org/plugins/tiles-progress-block/) - Add a progress bar block to your website.
 * [Todo Block](https://wordpress.org/plugins/todo-block/) - ToDo List Block for Gutenberg.
-* [Wavy Divider](https://wordpress.org/plugins/todo-list-block/) -  A creative, fun, lightweight wavy svg divider block to energize your website with character and pizazz.
 * [Todo List Block](https://wordpress.org/plugins/wavy-divider/) - Add todo lists to posts that render only within the block editor.
+* [Wavy Divider](https://wordpress.org/plugins/todo-list-block/) -  A creative, fun, lightweight wavy svg divider block to energize your website with character and pizazz.
 * [Wicked Block Builder](https://wordpress.org/plugins/wicked-block-builder/) - Rapidy create custom blocks and patterns.
 * [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/) - WooCommerce blocks for the Gutenberg editor.
 * [WP Block Pack](https://wordpress.org/plugins/wp-block-pack/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
