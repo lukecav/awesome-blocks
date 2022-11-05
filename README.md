@@ -29,10 +29,8 @@ Plugins for additional [Block](https://wordpress.org/support/article/blocks/) ty
 * [Blocks for Documents, Articles and FAQs](https://wordpress.org/plugins/blocks-for-documents-articles-and-faqs/) - Easy and fast way to write articles and documents with our simple but powerful blocks.
 * [Block editor assets filter](https://wordpress.org/plugins/block-editor-assets-filter/) - Disable custom blocks not used in block editor editing to speed up JavaScript and prevent conflicts.
 * [Block Editor Bootstrap Blocks](https://wordpress.org/plugins/block-editor-bootstrap-blocks/) - Fully responsive Bootstrap 5 blocks, components and extends for Gutenberg.
-* [Block Gallery](https://wordpress.org/plugins/block-gallery/) - The most advanced suite of gallery blocks for the Gutenberg block editor. Create stunning masonry, carousel and stacked galleries in seconds, with the brilliantly intuitive interface. Block Gallery is absolutely the best collection of native editor gallery blocks in the world.
 * [Block Extras](https://wordpress.org/plugins/block-extras/) - This plugin creates extra options for default Gutenberg block types.
 * [Block for Apple Maps](https://wordpress.org/plugins/maps-block-apple/) - An Apple Maps block for the WordPress block editor (Gutenberg).
-* [Block Lab](https://wordpress.org/plugins/block-lab/) - Create custom blocks effortlessly. No Gutenberg development know-how required.
 * [Blockly](https://wordpress.org/plugins/blockly/) - Blockly blocks for bloging website. Create Better Content With Gutenberg.
 * [Block Slider](https://wordpress.org/plugins/block-slider/) - Create awesome sliders using block slider plugin.
 * [Block Visibility](https://wordpress.org/plugins/block-visibility/) - Block Visibility allows you to dynamically control which blocks are visible on your website and who can see them.
@@ -83,7 +81,6 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Gutenslider – Gutenberg slider block](https://wordpress.org/plugins/gutenslider/) - Simple, intuitive, powerfull image and video slider block for Gutenberg that creates appealing slides to enrich your content. Gutenslider delivers.
 * [Gutentor](https://wordpress.org/plugins/gutentor/) - The most advanced yet easy drag & drop block page builder. Create masterpiece, pixel perfect websites using modern WordPress way. Work with any theme, create any design.
 * [Gutenverse](https://wordpress.org/plugins/gutenverse/) - Collection of easy to use and customizable blocks for WordPress Block Editor. Build a great website using block provided with Gutenverse.
-* [Heading Block by Gutenix](https://wordpress.org/plugins/heading-block-by-gutenix/) - Heading block by Gutenix is a plugin for creating responsive heading elements in the native WordPress blocks editor.
 * [Icon Separator](https://wordpress.org/plugins/icon-separator/) - A simple horizontal separator with icon.
 * [Image Comparison Block](https://wordpress.org/plugins/image-comparison-block/) - A block to let your visitors compare between two images. After, before, horizontal, and vertical comparison.
 * [Image Flow Gallery Block](https://wordpress.org/plugins/image-flow-gallery-block/) - Image Flow Gallery Blocks is a simple plugin that adds a Gutenberg block for inserting an image gallery with sliding effect to your pages. Features: Responsive, touch-enabled jQuery plugin, 3D transform and flipping effects.
@@ -112,7 +109,6 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Post Format Block](https://wordpress.org/plugins/post-format-block/) - Adds a Post Format Block as a variation of the core/post-terms block.
 * [Post Modified Time Block](https://wordpress.org/plugins/post-modified-time-block/) - A block to display the last updated date of a post.
 * [Power Blocks](https://wordpress.org/plugins/power-blocks/) - Powerful and feature rich blocks for the WordPress Gutenberg editor.
-* [Powerful Blocks](https://wordpress.org/plugins/powerful-blocks/) - Powerful Blocks is a Gutenberg Block Plugin With Awesome Blocks, Prebuilt Templates and Advanced Controls.
 * [Premium Blocks](https://wordpress.org/plugins/premium-blocks-for-gutenberg/) - Gutenberg blocks that will help you build amazing pages with the new WordPress Gutenberg editor.
 * [PricingBlock](https://wordpress.org/plugins/pricingblock/) - With PricingBlock you can create modren pricing table with Gutenberg in just few clicks.
 * [Publisher Media Kit](https://wordpress.org/plugins/publisher-media-kit/) - Pre-configured Media Kit Page using Gutenberg Block Patterns.
@@ -148,6 +144,5 @@ collection of gutenberg blocks, to build professional website with ease.
 * [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/) - WooCommerce blocks for the Gutenberg editor.
 * [WP Block Pack](https://wordpress.org/plugins/wp-block-pack/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
 * [WP Munich Blocks](https://wordpress.org/plugins/wp-munich-blocks/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
-* [WP Post Block](https://wordpress.org/plugins/wp-post-block/) - A pack of clean, useful and, customizable blocks for the new WordPress block editor.
 * [X3P0 Progress](https://wordpress.org/plugins/x3p0-progress/) - A block for outputting a progress bar.
 * [X3P0 Powered By](https://wordpress.org/plugins/x3p0-powered-by/) - A block that generates a random "Powered by" message. It is meant to replace the typical "Powered by Theme/WordPress" message in footers but can be used anywhere.
