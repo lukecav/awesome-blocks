@@ -120,7 +120,6 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Responsive Block Editor Addons](https://wordpress.org/plugins/responsive-block-editor-addons/) - Responsive Blocks for Gutenberg.
 * [Reusable Blocks Extended](https://wordpress.org/plugins/reusable-blocks-extended/) - Extend Gutenberg Reusable Blocks feature with a complete admin panel, widgets, shortcodes and PHP functions.
 * [ScBlocks](https://wordpress.org/plugins/scblocks/) - A collection of Gutenberg Blocks that help you build WordPress sites.
-* [Shinobi Blocks](https://wordpress.org/plugins/shinobi-blocks/) - A custom block plugin for Gutenberg.
 * [Social Sharing Block](https://wordpress.org/plugins/social-sharing-block/) - A simple little block that allows you add social share icons to your website.
 * [Sketch Block](https://wordpress.org/plugins/sketch/) - Draw and write freely on a canvas. The block offers color selection, different brush sizes, and with its transparent background can be layered on top of any container block, like groups or covers.
 * [SKT Blocks](https://wordpress.org/plugins/skt-blocks/) - SKT Blocks lets you use the default gutenberg editor and easily create creative websites within minutes with the help of the reusable blocks that can be used both in pages and posts.
