@@ -8,6 +8,7 @@ Plugins for additional [Block](https://wordpress.org/support/article/blocks/) ty
 * [Accordion Blocks](https://wordpress.org/plugins/accordion-blocks/) - Gutenberg blocks for creating responsive accordion drop-downs.
 * [ACF Blocks – The Ultimate Gutenberg Blocks Suite](https://wordpress.org/plugins/acf-blocks/) - Supercharge your Gutenberg editor with high quality beautiful WordPress blocks. Ready-to-use ACF Blocks.
 * [Advanced Blocks](https://wordpress.org/plugins/advanced-blocks/) - Gutenberg Block Plugin.
+* [Advanced Blocks Pro](https://wordpress.org/plugins/advanced-blocks-pro/) - Transform your web page creation process with the Advanced Blocks Pro in Gutenberg editor's dynamic and feature-rich blocks.
 * [Advanced Gutenberg Team Block](https://wordpress.org/plugins/advanced-team-block/) - Advanced Team Block is a custom Gutenberg Block developed with Gutenberg Native Components.
 * [Advanced Gutenberg Team Block](https://wordpress.org/plugins/advanced-post-block/) - Advanced Team Block is a custom Gutenberg Block developed with Gutenberg Native Components.
 * [Advanced Post Block](https://wordpress.org/plugins/affiliatewp-blocks/) - Advanced Post Block - Display Posts in Gutenberg Editor.
