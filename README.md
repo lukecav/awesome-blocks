@@ -96,7 +96,8 @@ collection of gutenberg blocks, to build professional website with ease.
 * [KitPDF](https://wordpress.org/plugins/pdf-viewer-blocks/) - This plugin helps you upload PDF and embed PDF documents to gutenberg blocks quickly and easily.
 * [LottieFiles](https://wordpress.org/plugins/lottiefiles/) - LottieFiles for WordPress is the easiest way to add Lottie animations to your WordPress website using the Gutenberg editor.
 * [LSX Blocks Plugin](https://wordpress.org/plugins/lsx-blocks/) -  The LSX Blocks plugin gives you a collection of Guteberg blocks that you can use and customize. All the blocks are built to work with our powerful LSX theme.
-* [Magazine Blocks]([https://wordpress.org/plugins/mighty-blocks/](https://wordpress.org/plugins/magazine-blocks/)) -  Craft your beautifully unique and dynamic Magazine, Newspaper website with various beautiful and advanced posts related blocks like Featured Posts, Banner Posts, Grid Module, Tab Posts, and more.
+* [Magazine Blocks](https://wordpress.org/plugins/magazine-blocks/) -  Craft your beautifully unique and dynamic Magazine, Newspaper website with various beautiful and advanced posts related blocks like Featured Posts, Banner Posts, Grid Module, Tab Posts, and more.
+* [Maxi Blocks](https://wordpress.org/plugins/maxi-blocks/) -  A powerful page builder for WordPress Gutenberg with a vast library of free web templates, icons & patterns.
 * [Mighty Blocks](https://wordpress.org/plugins/mighty-blocks/) -  Gutenberg on Steroids.
 * [Modal Guten Block](https://wordpress.org/plugins/modal-block/) -  This is a Gutenberg block modal / popup plugin.
 * [Multisite Shared Blocks](https://wordpress.org/plugins/modal-block/) -  Share blocks between network's sites.
