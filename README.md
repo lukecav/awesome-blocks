@@ -7,11 +7,9 @@ Plugins for additional [Block](https://wordpress.org/support/article/blocks/) ty
 ## Block Plugins
 * [Accordion Blocks](https://wordpress.org/plugins/accordion-blocks/) - Gutenberg blocks for creating responsive accordion drop-downs.
 * [ACF Blocks – The Ultimate Gutenberg Blocks Suite](https://wordpress.org/plugins/acf-blocks/) - Supercharge your Gutenberg editor with high quality beautiful WordPress blocks. Ready-to-use ACF Blocks.
-* [Advanced Blocks](https://wordpress.org/plugins/advanced-blocks/) - Gutenberg Block Plugin.
 * [Advanced Blocks Pro](https://wordpress.org/plugins/advanced-blocks-pro/) - Transform your web page creation process with the Advanced Blocks Pro in Gutenberg editor's dynamic and feature-rich blocks.
 * [Advanced Gutenberg Team Block](https://wordpress.org/plugins/advanced-team-block/) - Advanced Team Block is a custom Gutenberg Block developed with Gutenberg Native Components.
-* [Advanced Gutenberg Team Block](https://wordpress.org/plugins/advanced-post-block/) - Advanced Team Block is a custom Gutenberg Block developed with Gutenberg Native Components.
-* [Advanced Post Block](https://wordpress.org/plugins/affiliatewp-blocks/) - Advanced Post Block - Display Posts in Gutenberg Editor.
+* [Advanced Post Block](https://wordpress.org/plugins/advanced-post-block/) - Display posts in a variety of layouts
 * [Animate Blocks](https://wordpress.org/plugins/animate-blocks/) - Animate your Gutenberg blocks.
 * [Animate WP Blocks](https://wordpress.org/plugins/animate-wp-blocks/) - Add animation controls to each and every Gutenberg Block! Runs on Animate.css v4.
 * [Advanced Gutenberg](https://wordpress.org/plugins/advanced-gutenberg/) - Enhanced tools for Gutenberg editor.
@@ -127,10 +125,10 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Social Sharing Block](https://wordpress.org/plugins/social-sharing-block/) - A simple little block that allows you add social share icons to your website.
 * [Sketch Block](https://wordpress.org/plugins/sketch/) - Draw and write freely on a canvas. The block offers color selection, different brush sizes, and with its transparent background can be layered on top of any container block, like groups or covers.
 * [SKT Blocks](https://wordpress.org/plugins/skt-blocks/) - SKT Blocks lets you use the default gutenberg editor and easily create creative websites within minutes with the help of the reusable blocks that can be used both in pages and posts.
-* [SKT Blocks](https://wordpress.org/plugins/smart-blocks/) - SKT Blocks lets you use the default gutenberg editor and easily create creative websites within minutes with the help of the reusable blocks that can be used both in pages and posts.
+* [Smart Blocks](https://wordpress.org/plugins/smart-blocks/) - Collection of advanced blocks to be used with WordPress Gutenberg Pagebuilder.
 * [Stackable](https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/) - Blocks for everyone.
 * [Stylist](https://wordpress.org/plugins/stylist/) - Simple yet powerful visual style editor.
-* [Smart Blocks](https://wordpress.org/plugins/stylistic-modals/) - Collection of advanced blocks to be used with WordPress Gutenberg Pagebuilder.
+* [Stylistic Modals](https://wordpress.org/plugins/stylistic-modals/) - Create Stylistic Modals (aka Pop-ups) in the block editor. 
 * [Superb Blocks](https://wordpress.org/plugins/superb-blocks/) - Add new awesome features to the WordPress editor with Superb blocks.
 * [Super List Block](https://wordpress.org/plugins/superlist-block/) - Nest multiple blocks inside lists of any kind of list (ordered, unordered, no marker, etc), or do away with list markers and use it like a repeater!
 * [Table of Contents Block](https://wordpress.org/plugins/table-of-contents/) - Improve readability and navigation of your websites with the Table of Contents Block.
@@ -145,7 +143,7 @@ collection of gutenberg blocks, to build professional website with ease.
 * [Wavy Divider](https://wordpress.org/plugins/todo-list-block/) -  A creative, fun, lightweight wavy svg divider block to energize your website with character and pizazz.
 * [Wicked Block Builder](https://wordpress.org/plugins/wicked-block-builder/) - Rapidy create custom blocks and patterns.
 * [WooCommerce Blocks](https://wordpress.org/plugins/woo-gutenberg-products-block/) - WooCommerce blocks for the Gutenberg editor.
-* [WP Block Pack](https://wordpress.org/plugins/wp-block-pack/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
+* [WP Block Pack](https://wordpress.org/plugins/wp-block-pack/) - A pack of clean, useful and, customizable blocks for the WordPress block editor.
 * [WP Munich Blocks](https://wordpress.org/plugins/wp-munich-blocks/) - Create amazing content with the new WordPress block editor and the WP Munich blocks.
 * [X3P0 Progress](https://wordpress.org/plugins/x3p0-progress/) - A block for outputting a progress bar.
 * [X3P0 Powered By](https://wordpress.org/plugins/x3p0-powered-by/) - A block that generates a random "Powered by" message. It is meant to replace the typical "Powered by Theme/WordPress" message in footers but can be used anywhere.
